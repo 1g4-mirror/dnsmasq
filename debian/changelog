@@ -1,3 +1,9 @@
+dnsmasq (2.88-1srktest1) unstable; urgency=low
+
+   * Test build.
+
+ -- Simon Kelley <simon@thekelleys.org.uk>  Mon, 2 Jan 2023 22:24:45 +0000
+
 dnsmasq (2.88-1) unstable; urgency=low
 
    * New upstream.
